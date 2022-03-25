@@ -28,5 +28,5 @@
     
 * ### Supplement
   * Document
-    >
+    >The document file contains the presentation and final report for DL course. If wondering the project in details in Chinese, you can check the files there.
   
