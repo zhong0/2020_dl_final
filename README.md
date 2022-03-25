@@ -1,1 +1,1 @@
-# A Detection for News Topic Written by the Human or the Machine
+# The Detection for the News Topic Written by a Human or a Machine
