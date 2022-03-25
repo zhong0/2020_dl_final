@@ -18,13 +18,13 @@
 
 * ### Result
   * F1-score
-      >T5 Fine-tune: 63.99 % <br>
-      >T5 Michau: 85.67 % <br>
-      >Headliner: 87.99 %
+    >T5 Fine-tune: 63.99 % <br>
+     T5 Michau: 85.67 % <br>
+     Headliner: 87.99 %
   * NF
-      >T5 Fine-tune: 35.50 % <br>
-      >T5 Michau: 10.40 % <br>
-      >Headliner: 13.20 %
+    >T5 Fine-tune: 35.50 % <br>
+     T5 Michau: 10.40 % <br>
+     Headliner: 13.20 %
     
 * ### Supplement
   
