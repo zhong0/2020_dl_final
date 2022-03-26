@@ -7,7 +7,7 @@ Introduction
 Technique
 ----
 * ### T5 Fine-tune
-  >We conducted the topic generation task with T5 model, which converts all downstream task as a text-to-text format. This model applied the pre-trained model, t5-base. Then, we fine-tuned the model by ourselves on the generation task.
+  >We conducted the topic generation task with T5 model, which converts all downstream task as a text-to-text format. This model was applied with the pre-trained model, t5-base. Then, we fine-tuned the model by ourselves on the generation task.
  
 * ### T5 Michau
   >Different from above model, this model used the pre-trained model, Michau, which has been trained on a collection of 500k articles with headings.
