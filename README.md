@@ -20,11 +20,11 @@ Technique
 
 Result
 ----
-* ### F1-Score
+* ### F1-Score of BERT Classification for Each Generation Model
   * T5 Fine-tune: 63.99 %
   * T5 Michau: 85.67 %
   * Headliner: 87.99 %
-* ### NF
+* ### NF of BERT Classification for Each Generation Model
   * T5 Fine-tune: 35.50 %
   * T5 Michau: 10.40 %
   * Headliner: 13.20 %
